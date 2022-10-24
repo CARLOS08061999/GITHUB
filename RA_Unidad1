@@ -1,0 +1,4 @@
+
+git remote add origin https://github.com/CARLOS08061999/GITHUB.git
+git branch -M main
+git push -u origin main
